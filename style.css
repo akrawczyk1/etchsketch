@@ -1,0 +1,33 @@
+.flex {
+    display: flex;
+}
+
+.sketch-container{
+    width: 960px;
+
+    
+}
+
+.big{
+    height: 960px;
+}
+
+.sketch-row {
+    margin: 0;
+    padding: 0;
+}
+
+.sketch-node{
+    flex: 1;
+    margin: 0;
+    padding: 0;
+    border: solid black 1px;
+}
+
+.white {
+    background-color: #fff;
+}
+
+.black {
+    background-color: #000;
+}
